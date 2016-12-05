@@ -1,0 +1,1 @@
+json.array! @marketing_teams, partial: 'marketing_teams/marketing_team', as: :marketing_team

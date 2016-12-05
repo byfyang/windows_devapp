@@ -1,0 +1,2 @@
+class MarketingTeam < ApplicationRecord
+end

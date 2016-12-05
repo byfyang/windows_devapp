@@ -1,0 +1,1 @@
+json.partial! "marketing_teams/marketing_team", marketing_team: @marketing_team
